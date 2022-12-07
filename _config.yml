@@ -1,9 +1,11 @@
 theme: jekyll-theme-minimal
-title: GitHub pages template
-description: A simple template based on minimal jekyll theme
+title: Wassmap: Wasserstein Isometric Mapping for Functional Data
+description: 
 show_downloads: True
 navigation:
   - title: Home
     url: /
   - title: Setup
     url: setup
+  - title: Examples
+    url: examples
